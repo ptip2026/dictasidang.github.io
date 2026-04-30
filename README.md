@@ -1,0 +1,2 @@
+# dictasidang
+Aplikasi Transkripsi Sidang 
